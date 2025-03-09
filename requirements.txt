@@ -1,0 +1,12 @@
+duckduckgo-search>=7.5.1
+groq>=0.18.0
+langchain>=0.3.20
+langchain-community>=0.3.19
+langchain-core>=0.3.43
+langchain-groq>=0.2.5
+openai>=1.65.5
+pandas>=2.2.3
+plotly>=6.0.0
+python-dateutil>=2.9.0.post0
+requests>=2.32.3
+streamlit>=1.43.1
